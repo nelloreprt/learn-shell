@@ -1,5 +1,10 @@
-# learn-shell
-
-This is a shell script
-
-I have started liking Intelli J editor
+Printing
+Variables (V)
+Functions (F)
+Conditions (C)
+Loops (L)
+Exit Status
+Inputs
+Quotes
+Redirectors
+SED Editor

@@ -16,3 +16,10 @@ echo -e "\e[33mMESSAGE\e[0m"
 echo -e "\e[34mMESSAGE\e[0m"
 echo -e "\e[35mMESSAGE\e[0m"
 echo -e "\e[36mMESSAGE\e[0m"
+
+
+# to break a line and start a new line
+echo -e "Line1\nLine2"
+
+# colour code numbers link
+# https://misc.flogisoft.com/bash/tip_colors_and_formatting

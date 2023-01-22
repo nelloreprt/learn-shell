@@ -1,5 +1,11 @@
+#!/bin/bash
+#!/usr/bin/env bash
+
+# List files
 ls
 
-cat /etc/passwd | head -5
+# cat user file
+cat /etc/passwd | head -2
 
+# grep root user from user file
 grep root /etc/passwd

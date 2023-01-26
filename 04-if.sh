@@ -6,3 +6,4 @@ then
    echo a is 10
 else
    echo a is not equal to 10
+fi

@@ -14,7 +14,7 @@ example () {
   echo “2 is $2”
   echo “* is $*”
   echo “@ is $@”
-  echo “# is $#"
+  echo “# is $#”
 }
 
 example xyz 80

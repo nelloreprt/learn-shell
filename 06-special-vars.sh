@@ -15,7 +15,6 @@ example () {
   echo “* is $*”
   echo “@ is $@”
   echo “# is $#"
-
 }
 
-example
+example xyz 80
